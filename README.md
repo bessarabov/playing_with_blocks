@@ -12,4 +12,15 @@ This is a line created in blocks editor.
     path: "/"
   }}
 />
+<BlockComponent
+  block={{
+    owner: "bessarabov",
+    repo: "test-block",
+    id: "test-block",
+    type: "file",
+  }}
+  context={{
+    path: "README.md"
+  }}
+/>
 

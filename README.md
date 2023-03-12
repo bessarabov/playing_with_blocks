@@ -1,17 +1,11 @@
-This is a line created in blocks editor.
+# README.md
 
+This is an experiment with GitHub Blocks.
 
-<BlockComponent
-  block={{
-    owner: "mattrothenberg",
-    repo: "directory-size-block",
-    id: "directory-size-block",
-    type: "folder",
-  }}
-  context={{
-    path: "/"
-  }}
-/>
+To see the content in the file correctly you need to view it via https://blocks.githubnext.com/
+
+## test-block
+
 <BlockComponent
   block={{
     owner: "bessarabov",
